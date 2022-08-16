@@ -1,11 +1,15 @@
-
-<div align="center" >
-<!--<img alt="Capa" title="#Capa" src="https://user-images.githubusercontent.com/59747330/169672823-bea96f87-5698-4bdb-ac61-419ecdea3c6e.jpg" width="600px"/> -->
-</div> 
-
 <h2 align="center"> 
 	 🚀 Rocket Coffee 🚀 
 </h2>
+
+<div align="center" >
+<img alt="Capa" title="#Capa" src="https://github.com/DhioneCastilhoBarbosa/maratona-explorer-3/blob/main/cell-rocketcoffee.PNG" width="300px"/>
+</div> 
+
+<h2 align="center"> 
+	 
+</h2>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DhioneCastilhoBarbosa/maratona-explorer-3?color=%2304D361">
 
